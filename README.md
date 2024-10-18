@@ -1,8 +1,8 @@
 # Estudo de comandos NASM
 
-<p align="center">
+
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png" widt=200 height=150 >
-</p>
+
 
 ## primeiros comandos
 
